@@ -19,7 +19,12 @@ Nasledujte tutoriál na odkaze vyššie a použite základné prostriedky nástr
 * Jednoduchý tutorial na osvieženie si jazyka SQL: [https://data36.com/sql-for-data-analysis-tutorial-beginners/](https://data36.com/sql-for-data-analysis-tutorial-beginners/)
 
 * Príklad základnej analýzy datasetu pomocou SQL: 
-[https://www.kaggle.com/dimarudov/data-analysis-using-sql](https://www.kaggle.com/dimarudov/data-analysis-using-sql)
+[https://www.kaggle.com/dimarudov/data-analysis-using-sql](https://www.kaggle.com/dimarudov/data-analysis-using-sql). SQL dopyty je možné v prostredí Jupyter Notebooku (viac o ňom na druhom cvičení) písať aj priamo pomcou tzv. SQL Magic: (https://github.com/catherinedevlin/ipython-sql)[https://github.com/catherinedevlin/ipython-sql]
 
 * Príklad použitia nástrojov ako je Metabase na vizualizáciu dát získaných dopytovaním sa pomocou SQL:
-[https://medium.com/@Alibaba_Cloud/database-visualization-using-metabase-part-2-use-metabase-to-get-insights-db78b166b12f](https://medium.com/@Alibaba_Cloud/database-visualization-using-metabase-part-2-use-metabase-to-get-insights-db78b166b12f)
+[https://medium.com/@Alibaba_Cloud/database-visualization-using-metabase-part-2-use-metabase-to-get-insights-db78b166b12f](https://medium.com/@Alibaba_Cloud/database-visualization-using-metabase-part-2-use-metabase-to-get-insights-db78b166b12f). [Metabase](https://www.metabase.com/) si môžete stiahnuť (je to [open-source](https://github.com/metabase/metabase) a vyskúšať aj lokálne: [https://www.metabase.com/start/other.html](https://www.metabase.com/start/other.html)
+
+# Užitočné zdroje dát
+* [Kaggle](https://www.kaggle.com/)
+* [CodaLab](https://competitions.codalab.org/)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)

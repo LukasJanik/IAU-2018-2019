@@ -47,10 +47,13 @@ Napíšte kód zísavajúci odpovedena nasledujúce otázky o tomto [datasete](h
 
 inšpirované [https://github.com/suneel0101/data-science-bootcamp-part-two/blob/master/day_3.md](https://github.com/suneel0101/data-science-bootcamp-part-two/blob/master/day_3.md)
 
-# 2 online tutoriály na prepájanie datasetov a na manipuláciu s dátami:
+# Online tutoriály na prepájanie datasetov a na manipuláciu s dátami:
 
-1. Funkcie v knižnici Pandas na zmenu tvaru tabuliek údajov (stack, unstack, melt, pivot)
+1. Tutorial na používanie funkcií stack, unstack, pivot ...
+[https://nikgrozev.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/](https://nikgrozev.com/2015/07/01/reshaping-in-pandas-pivot-pivot-table-stack-and-unstack-explained-with-pictures/)
+
+2. Funkcie v knižnici Pandas na zmenu tvaru tabuliek údajov (stack, unstack, melt, pivot)
 [https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Tidy_Data_In_Python?lang=en)
 
-2. Data Wranging with Pandas (práca s časovými pečiatkami, merge, concat, stack, unstack, pivot, drop_duplicates ...)
+3. Data Wranging with Pandas (práca s časovými pečiatkami, merge, concat, stack, unstack, pivot, drop_duplicates ...)
 [http://my-classes.com/lesson/data-wrangling-with-pandas/](http://my-classes.com/lesson/data-wrangling-with-pandas/)

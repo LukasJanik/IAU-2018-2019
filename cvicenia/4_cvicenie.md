@@ -29,7 +29,8 @@ Načítajte tento [dataset](https://s3.amazonaws.com/python-level-2/sales-funnel
 
 ### Cross tab
 
-1. Vytvorte kontingenčnú tabuľku (crosstab), ktorá ukáže koľko záznamov je v jednotlivých stavoch (status) pre jednotlivé produkty (Manažérov, Rep, dvojice Manažér a Rep) 
+1. Vytvorte kontingenčnú tabuľku (crosstab), ktorá ukáže koľko záznamov je v jednotlivých stavoch (status) pre jednotlivé produkty 
+2. Vytvorte tabuľku z prvej úlohy, ale nahraďte produkty za Manažérov alebo Rep alebo dvojice Manažér a Rep. 
 
 
 ## Iný dataset

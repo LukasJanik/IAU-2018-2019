@@ -21,7 +21,7 @@ Načítajte tento [dataset](https://s3.amazonaws.com/python-level-2/sales-funnel
 
 1. Pozrite si príklady na používanie operácií stack, unstack a pivot v pripojených tutoriáloch.
 2. Aký je rozdiel medzi funkciami "pivot" a "pivot_table"?
-3. V dátovej sade z predchádzajúcich úloh vytvorte tabuľku, kde v riedkoch budú záznamy pre rôzne produkty, v stĺpcoch záznamy pre rôzne statusy a hodnoty budú agregované hodnoty zo stĺpcu "amount". Na agrefáciu použite funkciu sum z balíčka numpy.
+3. V dátovej sade z predchádzajúcich úloh vytvorte tabuľku, kde v riadkoch budú záznamy pre rôzne produkty, v stĺpcoch záznamy pre rôzne statusy a hodnoty budú agregované hodnoty zo stĺpcu "amount". Na agregáciu použite funkciu sum z balíčka numpy.
 
 ### Groupby
 

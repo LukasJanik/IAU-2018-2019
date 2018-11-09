@@ -1,0 +1,1 @@
+Cvičenie v 7. týždni sa neuskutoční kvôli sviatkom a študijnému voľnu.

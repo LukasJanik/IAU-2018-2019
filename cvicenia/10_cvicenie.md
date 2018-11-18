@@ -1,0 +1,1 @@
+Hlavnou úlohou tohto cvičenia je riešiť a konzultovať druhú fázu projektu, t. j. predspracovanie dát. Nezabudnite, že druhú fázu je potrebné odovzdať do systému AIS do **nedele 25.11.2018** do **23:59**.

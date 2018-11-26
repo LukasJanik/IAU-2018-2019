@@ -1,0 +1,1 @@
+Riešte úlohy zamerané na lineárnu a logistickú regresiu v [pripravenom notebooku](11_cvicenie/regression.ipynb).

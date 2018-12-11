@@ -3,4 +3,5 @@
 **/derby.log 
 **/metastore_db
 **/brown_model
+prednasky/13/data/*.gz
 
